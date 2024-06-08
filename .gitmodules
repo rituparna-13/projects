@@ -1,0 +1,3 @@
+[submodule "clusteringBenchmark"]
+	path = clusteringBenchmark
+	url = https://github.com/compbiofan/clusteringBenchmark
