@@ -1,3 +1,6 @@
 [submodule "clusteringBenchmark"]
 	path = clusteringBenchmark
 	url = https://github.com/compbiofan/clusteringBenchmark
+[submodule "leetcode"]
+	path = leetcode
+	url = https://github.com/rituparna-13/leetcode
