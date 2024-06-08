@@ -4,3 +4,6 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = https://github.com/rituparna-13/leetcode
+[submodule "sc_longitudinal_infer"]
+	path = sc_longitudinal_infer
+	url = https://github.com/compbio-mallory/sc_longitudinal_infer
