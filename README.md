@@ -6,4 +6,6 @@
 
 <b>sc_longitudinal_infer:</b> Repository for the computational tool (In progress) to infer a longitudinal tree given longitudinal single-cell DNA sequencing data. First draft for this work is available in bioRXiV "scLongTree: an accurate computational tool to infer the longitudinal tree for scDNAseq data".
 
+<b>Training BERT:</b> <a href="https://colab.research.google.com/drive/1UHiGTZuwRT3FkveQeZHXwx1ebKu501Jj?usp=sharing">Project Notebook Link</a>
+
 
